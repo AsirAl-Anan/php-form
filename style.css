@@ -1,0 +1,65 @@
+*{
+    /* padding: 0;
+    margin: 0; */
+    font-family: 'Poppins' , sans-serif;
+}
+body{
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
+.header{
+   margin: 80px;
+   margin-left: 450px;
+   border: 1px solid blueviolet;
+   padding-left: 20px;
+   width: 1050px;
+   background-color: aliceblue;
+   border-radius: 10px;
+}
+
+
+.h02{
+    text-align: center;
+}
+.h01{
+  width: 500px;
+}
+
+
+.namePart{
+    border: 1px solid blueviolet;
+    margin-left: 450px;
+    padding: 20px;
+    width: 1047px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+#textBox{
+   width: 500px;
+   margin-left: 50px;
+}
+
+
+.secondbox{
+    padding-left: 250px;
+}
+table,tr,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: aliceblue;
+}
+table{
+    margin-left: 450px;
+    width: 1042px;
+   
+}
+th, td{
+    padding: 10px;
+}
+.output{
+    background-color: pink;
+    color: black;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
